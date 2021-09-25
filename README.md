@@ -21,10 +21,12 @@ git clone https://github.com/mradul2/motion-based-whiteboard
 python3 main.py
 ```
 
+- Use fluorescent yellow coloured object to instruct the program.
+- Move the object in front of Webcam 
 - The two modes (Pen and Eraser) are switched when Pen is taken away from the screen.
 - Board is refreshed when the Pen is taken close to Webcam.
 
-## Output
+## Outputs
 
 ### Sample outputs in pen and eraser mode
 
@@ -35,5 +37,3 @@ python3 main.py
 #### Eraser Mode
 
 ![Eraser](assets/eraser.png)
-
-## About
