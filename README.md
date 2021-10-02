@@ -2,6 +2,8 @@
 
 Tracks the movement of user using Webcam and performs various operations such as writing, deletion and clearing the screen.
 
+Workshop Documentation: [Link](https://docs.google.com/document/d/197V5TfCjr7cF0aZ59CXFSJNVlFJ3WyPL-vYOsldnSYQ/edit?usp=sharing)
+
 ## Requirments
 
 ```bash
